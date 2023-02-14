@@ -1,4 +1,5 @@
 *.blend?
 *.gcode?
 models/references/
+models/textures/
 prints/gcode/
